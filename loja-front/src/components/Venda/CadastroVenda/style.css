@@ -1,0 +1,65 @@
+.cadastro-venda-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .cadastro-venda-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .cadastro-venda-container form {
+    margin-bottom: 20px;
+  }
+  
+  .cadastro-venda-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .cadastro-venda-container input,
+  .cadastro-venda-container select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .cadastro-venda-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .btn-adicionar-produto {
+    background-color: #28a745;
+  }
+  
+  .btn-adicionar-produto:hover {
+    background-color: #218838;
+  }
+  
+  .btn-cadastrar-venda {
+    margin-top: 10px;
+  }
+  
+  .btn-remover-produto {
+    background-color: #dc3545;
+    margin-bottom: 10px;
+  }
+  
+  .btn-remover-produto:hover {
+    background-color: #c82333;
+  }
+
+  .btn-space {
+    margin-bottom: 10px;
+  }
